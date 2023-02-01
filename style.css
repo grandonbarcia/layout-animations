@@ -81,6 +81,6 @@ section {
   height: auto;
 }
 
-.card-is-inactive {
+.is-inactive {
   grid-column: span 2;
 }
